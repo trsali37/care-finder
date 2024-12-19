@@ -3,13 +3,11 @@
 
 ## 💡 Inspiration
 
-During my tenure as an analyst at UnitedHealth Group, I encountered a 2019 organizational [study](https://www.unitedhealthgroup.com/newsroom/posts/2019-07-22-high-cost-emergency-department-visits.html) showing that treating common conditions in Emergency Rooms costs over 900% more than in Urgent Cares. This compounds up to 18 Million Avoidable Hospital Emergency Department Visits, and $32 Billion in Costs to the Health Care System Each Year!
+During my tenure as an analyst at UnitedHealth Group, I encountered a 2019 organizational [study](https://www.unitedhealthgroup.com/newsroom/posts/2019-07-22-high-cost-emergency-department-visits.html) showing that receiving treatment for common conditions in Emergency Rooms costs over 900% more than in Urgent Cares. This compounds up to 18 Million Avoidable Hospital Emergency Department Visits, and $32 Billion in Costs to the Health Care System Each Year!
 
-Often times individuals instinctively rush to hospital emergency rooms for any medical need. However, studies show that two thirds of these hospital visits could be treated at Urgent Cares. This common behavior stems from lack of information needed to make informed decisions about where to seek appropriate treatment. By choosing the right care facility, patients can potentially save significant time avoiding long waits in crowded emergency rooms and reduce their costs by up to 10 times.
+Often times individuals instinctively rush to hospital emergency rooms for any medical need. However, studies show that two thirds of these hospital visits could be treated at Urgent Cares. This common behavior stems from lack of information needed to make informed decisions about where to seek appropriate treatment. 
 
-I recognized that this disparity had immense potential for improving healthcare accessibility and reducing costs. At the time I had limited technical skills which prevented me from developing actionable solutions to address this problem.
-
-Now that I've taken CS50P, I want to take the opportunity to develop a python program that has been in the back of my mind since then.
+I developed this program to improve healthcare accessibility by helping people make more informed decisions about medical care - reducing patient costs up to 10x and eliminating time wasted in hospital waiting rooms.
 
 ## 🌠 Description:
 My goal is to create a program that empowers users to:
