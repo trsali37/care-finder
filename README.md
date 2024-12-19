@@ -7,7 +7,7 @@ During my tenure as an analyst at UnitedHealth Group, I encountered a 2019 organ
 
 Often times individuals instinctively rush to hospital emergency rooms for any medical need. However, studies show that two thirds of these hospital visits could be treated at Urgent Cares. This common behavior stems from lack of information needed to make informed decisions about where to seek appropriate treatment. 
 
-I developed this program to improve healthcare accessibility by helping people make more informed decisions about medical care - reducing patient costs up to 10x and eliminating time wasted in hospital waiting rooms.
+I developed this program to improve healthcare accessibility by helping people make more informed decisions about medical care, reducing patient costs up to 10x and eliminating time wasted in hospital waiting rooms.
 
 ## 🌠 Description:
 My goal is to create a program that empowers users to:
